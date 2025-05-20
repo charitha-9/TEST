@@ -1,2 +1,4 @@
 printf("enter num:");
 scanf("%d",&a);
+printf("enter num:);
+
